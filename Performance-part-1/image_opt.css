@@ -1,0 +1,19 @@
+.imagebox
+{
+    width: auto;
+    height: 400px;
+    
+}
+
+@media screen and (min-width: 900px){
+.imagebox{
+    background: url(../Performance-part-1/assests/linkedIn-wallcover@2x.jpg)   no-repeat fixed;
+    background-size: contain;
+}
+}
+@media screen and (max-width: 900px){
+    .imagebox{
+        background: url(../Performance-part-1/assests/linkedIn-wallcover.jpg)   no-repeat fixed;
+        background-size: contain;
+    }
+    }
