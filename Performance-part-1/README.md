@@ -18,3 +18,5 @@
     - Use CDN : imigix
     - * [Remove Image Meta](https://www.verexif.com/en/)  - 2-10% 
 
+- Delivery Optimization 
+    - reduce http request
